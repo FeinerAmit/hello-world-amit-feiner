@@ -1,2 +1,2 @@
 # hello-world-amit-feiner
-first repository
+Amit's first repository
